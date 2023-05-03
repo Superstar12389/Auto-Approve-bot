@@ -25,7 +25,7 @@
 
 
   ```ssh
-  git clone https://github.com/ImDenuwan/Auto-Approve-Bot
+  git clone https://github.com/Superstar12389/Auto-Approve-Bot
   pip3 install -r requirements.txt
   # fill config.py vars
   python3 bot.py
